@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "JavaScript",
+    "descricao": "O JavaScript (JS) é uma linguagem de programação de alto nível, interpretada (ou Just-in-Time compilada), e multi-paradigma, mais conhecida por ser a linguagem fundamental da web. Foi criado em 1995 por Brendan Eich enquanto trabalhava na Netscape Communications, e seu principal objetivo era adicionar interatividade e comportamento dinâmico às páginas web (que antes eram apenas estáticas).",
+    "ano_lancamento": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+  },
+  {
+    "nome": "Python",
+    "descricao": "Python é uma linguagem de programação de alto nível, interpretada, de propósito geral, conhecida por sua sintaxe clara e legível, o que a torna excelente para iniciantes e muito produtiva para desenvolvedores experientes. Criada por Guido van Rossum e lançada em 1991, seu design enfatiza a filosofia da legibilidade do código.",
+    "ano_lancamento": 1991,
+    "link": "https://docs.python.org/pt-br/3.14/"
+  },
+  {
+    "nome": "Java",
+    "descricao": "Java é uma linguagem de programação de alto nível, orientada a objetos e multiplataforma, conhecida pelo seu slogan 'escreva uma vez, execute em qualquer lugar'. Ela utiliza a Máquina Virtual Java (JVM) para garantir a portabilidade do código compilado (bytecode) entre diferentes sistemas operacionais. É amplamente usada no desenvolvimento de aplicações corporativas (enterprise), sistemas Android, software de grande porte, e tecnologias de Big Data.",
+    "ano_lancamento": 1995,
+    "link": "https://www.java.com/pt-BR/"
+  },
+  {
+    "nome": "C#",
+    "descricao": "C# é uma linguagem moderna, orientada a objetos e fortemente tipada, desenvolvida pela Microsoft como parte da plataforma .NET. Ela foi projetada para ser uma evolução das linguagens C++ e Java, combinando facilidade de uso com robustez e desempenho. É a linguagem mais popular para o desenvolvimento no ecossistema .NET, sendo usada para criar aplicativos Windows (desktop), serviços web (backends), jogos (com Unity), e soluções em nuvem.",
+    "ano_lancamento": 2000,
+    "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+  },
+  {
+    "nome": "Ruby",
+    "descricao": "Ruby é uma linguagem de programação dinâmica, de código aberto, com foco na simplicidade e na produtividade, sendo **orientada a objetos** pura. Sua sintaxe elegante e concisa visa tornar a leitura e escrita de código mais natural e agradável. É amplamente utilizada para desenvolvimento web, sendo o framework **Ruby on Rails** (lançado em 2004) o maior impulsionador de sua popularidade.",
+    "ano_lancamento": 1995,
+    "link": "https://www.ruby-lang.org/pt/"
+  },
+  {
+    "nome": "Go (Golang)",
+    "descricao": "Go, ou Golang, é uma linguagem de programação **compilada** e **fortemente tipada**, criada pelo Google em 2009. Foi projetada para ser simples, eficiente e, acima de tudo, para facilitar a **concorrência** (execução paralela) em sistemas de grande escala e servidores web. Sua sintaxe é inspirada em C, mas com recursos modernos como coleta de lixo (garbage collection) e tipagem estática.",
+    "ano_lancamento": 2009,
+    "link": "https://go.dev/"
+  }
+]
