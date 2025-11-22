@@ -15,7 +15,7 @@
     "nome": "Java",
     "descricao": "Java é uma linguagem de programação de alto nível, orientada a objetos e multiplataforma, conhecida pelo seu slogan 'escreva uma vez, execute em qualquer lugar'. Ela utiliza a Máquina Virtual Java (JVM) para garantir a portabilidade do código compilado (bytecode) entre diferentes sistemas operacionais. É amplamente usada no desenvolvimento de aplicações corporativas (enterprise), sistemas Android, software de grande porte, e tecnologias de Big Data.",
     "ano_lancamento": 1995,
-    "link": "https://www.java.com/pt-BR/"
+    "link": "https://docs.oracle.com/en/java/"
   },
   {
     "nome": "C#",
